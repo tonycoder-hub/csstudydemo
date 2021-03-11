@@ -1,0 +1,16 @@
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\WinFormAppDemo.exe
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\WinFormAppDemo.deps.json
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\WinFormAppDemo.runtimeconfig.json
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\WinFormAppDemo.runtimeconfig.dev.json
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\WinFormAppDemo.dll
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\ref\WinFormAppDemo.dll
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\bin\Debug\net5.0-windows\WinFormAppDemo.pdb
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.csprojAssemblyReference.cache
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.AssemblyInfoInputs.cache
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.AssemblyInfo.cs
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.dll
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\ref\WinFormAppDemo.dll
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.pdb
+C:\Users\40724\Desktop\source\repos\WinFormAppDemo\WinFormAppDemo\obj\Debug\net5.0-windows\WinFormAppDemo.genruntimeconfig.cache

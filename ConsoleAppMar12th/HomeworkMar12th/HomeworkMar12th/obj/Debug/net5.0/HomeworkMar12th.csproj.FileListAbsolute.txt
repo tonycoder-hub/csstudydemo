@@ -1,0 +1,16 @@
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\HomeworkMar12th.exe
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\HomeworkMar12th.deps.json
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\HomeworkMar12th.runtimeconfig.json
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\HomeworkMar12th.runtimeconfig.dev.json
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\HomeworkMar12th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\ref\HomeworkMar12th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\bin\Debug\net5.0\HomeworkMar12th.pdb
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.csprojAssemblyReference.cache
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.AssemblyInfoInputs.cache
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.AssemblyInfo.cs
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.csproj.CoreCompileInputs.cache
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\ref\HomeworkMar12th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.pdb
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar12th\HomeworkMar12th\HomeworkMar12th\obj\Debug\net5.0\HomeworkMar12th.genruntimeconfig.cache

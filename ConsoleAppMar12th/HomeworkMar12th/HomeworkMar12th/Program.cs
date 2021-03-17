@@ -34,7 +34,7 @@ namespace HomeworkMar12th
                     }
                 case 5:
                     {
-                        Problem1.Solution();
+                        Problem5.Solution();
                         break;
                     }
                 default:
@@ -46,29 +46,96 @@ namespace HomeworkMar12th
 
         }
     }
+    class Problem5
+    {
+        public static void Solution()
+        {
+            ShapeFactory sf = new ShapeFactory();
+            List<Shape> useless = new List<Shape>();
+            for (int i = 0; i < 10;)
+            {
+                Shape tmp = sf.produceShape();
+                if (tmp.isLegal())
+                {
+                    Console.WriteLine(tmp.toString());
+                    Console.WriteLine("Area: " + tmp.GetArea());
+                    i++;
+                }
+                else
+                {
+                    useless.Add(tmp);
+                }
+                
+            }
+            Console.WriteLine(useless.Count);
 
+        }
+        public static int getRandomInt(int a, int b)
+        {
+            Random r = new Random();
+            return r.Next(a, b);
+        }
+        public static double getRandomDouble(int a, int b)
+        {
+            Random r = new Random();
+            return Problem5.getRandomInt(a, b)*r.NextDouble();
+        }
+
+    }
+    class ShapeFactory
+    {
+        public Shape produceShape()
+        {
+            int whichOne = Problem5.getRandomInt(1, 4);
+            switch (whichOne)
+            {
+                case 1:
+                    {
+                        double b = Problem5.getRandomDouble(-10000, 10000);
+                        double c = Problem5.getRandomDouble(-10000, 10000);
+                        return new Rectangle(b,c);
+                    }
+                case 2:
+                    {
+                        double b = Problem5.getRandomDouble(-10000, 10000);
+                        return new Square(b);
+                    }
+                case 3:
+                    {
+                        double b = Problem5.getRandomDouble(-10000, 10000);
+                        double c = Problem5.getRandomDouble(-10000, 10000);
+                        double d = Problem5.getRandomDouble(-10000, 10000);
+                        return new Triangle(b, c, d);
+                    }
+                default:
+                    {
+                        throw new Exception("Unexpected input");
+                    }
+            }
+        }
+    }
     class Problem4
     {
         public static void Solution()
         {
             // Class Shape is out of Class Problem4
             Shape a = new Rectangle(4, 5);
-            Console.WriteLine(a.ifLegal());
+            Console.WriteLine(a.isLegal());
             Console.WriteLine(a.GetArea());
             Shape b = new Triangle(4, 5, 3);
-            Console.WriteLine(b.ifLegal());
+            Console.WriteLine(b.isLegal());
             Console.WriteLine(b.GetArea());
             Shape c = new Square(4);
-            Console.WriteLine(c.ifLegal());
+            Console.WriteLine(c.isLegal());
             Console.WriteLine(c.GetArea());
             Shape d = new Rectangle(4, 0);
-            Console.WriteLine(d.ifLegal());
+            Console.WriteLine(d.isLegal());
             Console.WriteLine(d.GetArea());
             Shape e = new Triangle(1, 1,2);
-            Console.WriteLine(e.ifLegal());
+            Console.WriteLine(e.isLegal());
             Console.WriteLine(e.GetArea());
             Shape f = new Square(-1);
-            Console.WriteLine(f.ifLegal());
+            Console.WriteLine(f.isLegal());
             Console.WriteLine(f.GetArea());
         }
 
@@ -78,8 +145,8 @@ namespace HomeworkMar12th
    abstract class Shape
     {
         public abstract double GetArea();
-        public abstract bool ifLegal();
-
+        public abstract bool isLegal();
+        public abstract string toString();
 
     }
     class Rectangle : Shape
@@ -93,7 +160,7 @@ namespace HomeworkMar12th
         private double length{ get; set; }
         public override double GetArea()
         {
-            if (ifLegal())
+            if (isLegal())
             {
                 return width * length;
             }
@@ -103,7 +170,7 @@ namespace HomeworkMar12th
             }
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             if(width>0 && length > 0)
             {
@@ -113,6 +180,10 @@ namespace HomeworkMar12th
             {
                 return false;
             }
+        }
+        public override string toString()
+        {
+            return this.GetType() + " " + "width: " + width + " " + "length: " + length;
         }
     }
     class Triangle : Shape
@@ -128,7 +199,7 @@ namespace HomeworkMar12th
         private double c { get; set; }
         public override double GetArea()
         {
-            if (ifLegal())
+            if (isLegal())
             {
                 double tmp = (a + b + c) / 2;
                 return Math.Sqrt(tmp * (tmp - a) * (tmp - b) * (tmp - c));
@@ -139,7 +210,7 @@ namespace HomeworkMar12th
             }
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             if (a + b > c && b + c > a && a + c > b)
             {
@@ -149,6 +220,10 @@ namespace HomeworkMar12th
             {
                 return false;
             }
+        }
+        public override string toString()
+        {
+            return this.GetType() + " " + "a: " + a + " " + "b: " + b +" c: "+c;
         }
     }
 
@@ -161,7 +236,7 @@ namespace HomeworkMar12th
         private double len { get; set; }
         public override double GetArea()
         {
-            if (ifLegal())
+            if (isLegal())
             {
                 return len * len;
             }
@@ -171,7 +246,7 @@ namespace HomeworkMar12th
             }
         }
 
-        public override bool ifLegal()
+        public override bool isLegal()
         {
             if (len > 0)
             {
@@ -181,6 +256,10 @@ namespace HomeworkMar12th
             {
                 return false;
             }
+        }
+        public override string toString()
+        {
+            return this.GetType() + " " + "len: " + len;
         }
     }
     class Problem3

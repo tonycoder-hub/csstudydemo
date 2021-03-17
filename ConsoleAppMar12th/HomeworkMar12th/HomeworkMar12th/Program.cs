@@ -47,6 +47,23 @@ namespace HomeworkMar12th
         }
     }
 
+    class Problem4
+    {
+        public static void Solution()
+        {
+            // Class Shape is out of Class Problem4
+        }
+
+
+    }
+
+   abstract class Shape
+    {
+        public virtual double GetArea()
+        {
+
+        }
+    }
     class Problem3
     {
         public static void Solution()

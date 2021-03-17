@@ -29,7 +29,7 @@ namespace HomeworkMar12th
                     }
                 case 4:
                     {
-                        Problem1.Solution();
+                        Problem4.Solution();
                         break;
                     }
                 case 5:
@@ -52,6 +52,24 @@ namespace HomeworkMar12th
         public static void Solution()
         {
             // Class Shape is out of Class Problem4
+            Shape a = new Rectangle(4, 5);
+            Console.WriteLine(a.ifLegal());
+            Console.WriteLine(a.GetArea());
+            Shape b = new Triangle(4, 5, 3);
+            Console.WriteLine(b.ifLegal());
+            Console.WriteLine(b.GetArea());
+            Shape c = new Square(4);
+            Console.WriteLine(c.ifLegal());
+            Console.WriteLine(c.GetArea());
+            Shape d = new Rectangle(4, 0);
+            Console.WriteLine(d.ifLegal());
+            Console.WriteLine(d.GetArea());
+            Shape e = new Triangle(1, 1,2);
+            Console.WriteLine(e.ifLegal());
+            Console.WriteLine(e.GetArea());
+            Shape f = new Square(-1);
+            Console.WriteLine(f.ifLegal());
+            Console.WriteLine(f.GetArea());
         }
 
 
@@ -59,9 +77,110 @@ namespace HomeworkMar12th
 
    abstract class Shape
     {
-        public virtual double GetArea()
-        {
+        public abstract double GetArea();
+        public abstract bool ifLegal();
 
+
+    }
+    class Rectangle : Shape
+    {
+        public Rectangle(double width,double length)
+        {
+            this.width = width;
+            this.length = length;
+        }
+        private double width { get; set; }
+        private double length{ get; set; }
+        public override double GetArea()
+        {
+            if (ifLegal())
+            {
+                return width * length;
+            }
+            else
+            {
+                return -1;
+            }
+        }
+
+        public override bool ifLegal()
+        {
+            if(width>0 && length > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+    class Triangle : Shape
+    {
+        public Triangle(double a, double b, double c)
+        {
+            this.a = a;
+            this.b = b;
+            this.c = c;
+        }
+        private double a { get; set; } 
+        private double b { get; set; } 
+        private double c { get; set; }
+        public override double GetArea()
+        {
+            if (ifLegal())
+            {
+                double tmp = (a + b + c) / 2;
+                return Math.Sqrt(tmp * (tmp - a) * (tmp - b) * (tmp - c));
+            }
+            else
+            {
+                return -1;
+            }
+        }
+
+        public override bool ifLegal()
+        {
+            if (a + b > c && b + c > a && a + c > b)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    }
+
+    class Square : Shape
+    {
+        public Square(double len)
+        {
+            this.len = len;
+        }
+        private double len { get; set; }
+        public override double GetArea()
+        {
+            if (ifLegal())
+            {
+                return len * len;
+            }
+            else
+            {
+                return -1;
+            }
+        }
+
+        public override bool ifLegal()
+        {
+            if (len > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
     class Problem3

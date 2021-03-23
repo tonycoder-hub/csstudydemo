@@ -1,0 +1,16 @@
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ConsoleAppMar19th.exe
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ConsoleAppMar19th.deps.json
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ConsoleAppMar19th.runtimeconfig.json
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ConsoleAppMar19th.runtimeconfig.dev.json
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ConsoleAppMar19th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ref\ConsoleAppMar19th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\bin\Debug\net5.0\ConsoleAppMar19th.pdb
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.csprojAssemblyReference.cache
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.AssemblyInfoInputs.cache
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.AssemblyInfo.cs
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.csproj.CoreCompileInputs.cache
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ref\ConsoleAppMar19th.dll
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.pdb
+C:\Users\40724\Desktop\csstudydemo\ConsoleAppMar19th\ConsoleAppMar19th\obj\Debug\net5.0\ConsoleAppMar19th.genruntimeconfig.cache

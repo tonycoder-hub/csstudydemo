@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="TonyCoderHomework">
+  <OrderId>7</OrderId>
+  <Details>
+    <OrderName>detail3</OrderName>
+    <UserName>user3</UserName>
+    <Amount>3423.22</Amount>
+  </Details>
+</OrderRoot>

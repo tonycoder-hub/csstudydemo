@@ -1,0 +1,16 @@
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ConsoleAppHomework05.exe
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ConsoleAppHomework05.deps.json
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ConsoleAppHomework05.runtimeconfig.json
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ConsoleAppHomework05.runtimeconfig.dev.json
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ConsoleAppHomework05.dll
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ref\ConsoleAppHomework05.dll
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\bin\Debug\net5.0\ConsoleAppHomework05.pdb
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.csprojAssemblyReference.cache
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.AssemblyInfoInputs.cache
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.AssemblyInfo.cs
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.csproj.CoreCompileInputs.cache
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.dll
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ref\ConsoleAppHomework05.dll
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.pdb
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework05\ConsoleAppHomework05\obj\Debug\net5.0\ConsoleAppHomework05.genruntimeconfig.cache

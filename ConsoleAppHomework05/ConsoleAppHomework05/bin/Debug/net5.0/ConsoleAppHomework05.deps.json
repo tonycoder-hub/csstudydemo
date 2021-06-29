@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppHomework05/1.0.0": {
+        "runtime": {
+          "ConsoleAppHomework05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppHomework05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

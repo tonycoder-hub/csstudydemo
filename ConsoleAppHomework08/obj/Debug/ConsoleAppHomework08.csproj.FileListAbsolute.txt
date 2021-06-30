@@ -1,0 +1,7 @@
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\obj\Debug\ConsoleAppHomework08.csprojAssemblyReference.cache
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\obj\Debug\ConsoleAppHomework08.csproj.CoreCompileInputs.cache
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\bin\Debug\ConsoleAppHomework08.exe.config
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\bin\Debug\ConsoleAppHomework08.exe
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\bin\Debug\ConsoleAppHomework08.pdb
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\obj\Debug\ConsoleAppHomework08.exe
+C:\Users\Tony-\Desktop\csstudydemo\ConsoleAppHomework08\obj\Debug\ConsoleAppHomework08.pdb
